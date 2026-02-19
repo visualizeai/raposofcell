@@ -1,3 +1,13 @@
-# raposofcell
+# Raposo FCELL
 
-Criado automaticamente pela **Nexa Builde**.
+## Rodar
+```bash
+npm install
+npm run dev
+```
+
+## Build
+```bash
+npm run build
+npm run preview
+```
